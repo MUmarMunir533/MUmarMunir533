@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umar Munir</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mumarmunir533&label=Profile%20views&color=0e75b6&style=flat" alt="mumarmunir533" /> </p>
 
