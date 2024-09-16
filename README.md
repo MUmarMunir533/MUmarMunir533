@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+
 <h1 align="center">Hi 👋, I'm Muhammad Umar Munir</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
@@ -38,7 +38,7 @@
 <p><a href="https://www.buymeacoffee.com/MUmarMunir533"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MUmarMunir533" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mumarmunir533&show_icons=true&locale=en&layout=compact" alt="mumarmunir533" /></p>
-
+ <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mumarmunir533&show_icons=true&locale=en" alt="mumarmunir533" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mumarmunir533&" alt="mumarmunir533" /></p>
