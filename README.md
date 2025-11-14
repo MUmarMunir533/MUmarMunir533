@@ -16,14 +16,16 @@
 ---
 
 # ✨ **About Me**
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+
+<!-- 🔥 Replaced with a DARK + TRANSPARENT coding GIF -->
+<img align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="260" />
 
 - 👋 I'm **Muhammad Umar Munir**, a passionate **Full Stack Developer**
 - 💻 Recently built **AI-Navigator UI** using React + Tailwind
-- 🔥 Love making advanced UI/UX with modern animations
-- 🚀 Exploring **TypeScript**, **DevOps**, and new libraries
-- 🧠 Interest in **Web Dev, AI Apps, Backend Systems**
-- 🎯 Goal: Become an expert-level full stack dev with strong backend & AI skills
+- 🔥 Love advanced UI/UX & modern animation workflows
+- 🚀 Exploring **TypeScript**, **DevOps**, and modern libraries
+- 🧠 Interests: **Web Dev, AI Apps, Backend Systems**
+- 🎯 Goal: Become an expert-level full stack dev with strong backend & AI stack
 
 ---
 
@@ -94,14 +96,6 @@ A modern UI built with **React + Tailwind + Advanced Animations**
 
 ---
 
-# 📈 **Contribution Graph (Animated Dark Theme)**
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUmarMunir533&theme=react-dark&hide_border=true" />
-</div>
+# 🎮 **Mini Hacker Terminal Game (ASCII Mode)**  
+*(Fun interactive console-style game — GitHub supported)*
 
----
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=footer" />
-</div>
