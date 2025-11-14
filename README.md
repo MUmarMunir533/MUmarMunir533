@@ -13,7 +13,8 @@
 
 # 🚀 **About Me**
 <div align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="260" align="right"/>
+  <!-- Updated About Me GIF -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xocmYzZ2QyZjV6M3NnN3Z6eG84d3E5eHEyc2p5Y2g5OGQ1cTZmNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FcWp8ZJYv9X9u/giphy.gif" width="260" align="right"/>
 </div>
 
 ✨ Passionate **Full Stack Developer** crafting  
@@ -58,7 +59,8 @@
 
 # 🎞️ **Live Coding Animation**
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <!-- Updated Live Coding GIF -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9yOXMwbWJya2VpYm1pb3A3Z2c2cnNnM2xyMnlhZnBrMGZpMG9pdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gf675E41dP6I8/giphy.gif" width="500"/>
 </div>
 
 ---
