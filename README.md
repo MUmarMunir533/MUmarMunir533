@@ -49,16 +49,16 @@
 
 <br/>
 
-# 🧊 **Animated Skill Card (Updated)**
+# 🧊 **Animated Skill Card (Dark Neon Updated)**
 <div align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="480" />
 </div>
 
 ---
 
-# 🎞️ **Live Coding Animation**
+# 🎞️ **Live Coding Animation (Dark Cyber Look)**
 <div align="center">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </div>
 
 ---
