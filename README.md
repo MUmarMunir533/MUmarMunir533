@@ -1,91 +1,107 @@
-
-<!-- Gradient Banner -->
+<!-- Dark Gradient Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00FFFF&height=200&section=header&text=Muhammad%20Umar%20Munir&fontSize=40&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Muhammad%20Umar%20Munir&fontSize=40&fontColor=FFFFFF&animation=twinkling" />
 </div>
 
-<h2 align="center">🚀 Full Stack Developer | MERN | Next.js | AI Enthusiast</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="40" />
+  🚀 Full Stack Developer | MERN | Next.js | AI Enthusiast
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="40" />
+</h2>
 
 <p align="center">
-  <b>Passionate about building powerful web apps, AI tools, and solving real-world problems through code.</b>
+  <b>Building Modern UIs, AI-Powered Apps, and Scalable Backends with Style.</b>
 </p>
 
 ---
 
-## 🌟 About Me
+# ✨ **About Me**
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
-Hi! I'm **Muhammad Umar Munir**, a dedicated **Full Stack Developer** who loves working with modern web technologies and AI-powered applications.
-
-I consistently work on multiple projects — recently I built an **AI-Navigator UI** using **React + Tailwind CSS** with several advanced libraries.
+- 👋 I'm **Muhammad Umar Munir**, a passionate **Full Stack Developer**
+- 💻 Recently built **AI-Navigator UI** using React + Tailwind
+- 🔥 Love making advanced UI/UX with modern animations
+- 🚀 Exploring **TypeScript**, **DevOps**, and new libraries
+- 🧠 Interest in **Web Dev, AI Apps, Backend Systems**
+- 🎯 Goal: Become an expert-level full stack dev with strong backend & AI skills
 
 ---
 
-## ⚡ Tech Stack & Skills
+# ⚡ **Tech Stack**
 
-### 💻 Languages & Tools  
+### 🚀 Main Tech  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,prisma,mysql,graphql,tailwind,bootstrap,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,prisma,mysql,graphql" />
 </p>
 
-### 🎨 UI Libraries  
-- Shadcn  
-- Tailwind CSS  
-- Bootstrap  
+### 🎨 UI & Styling  
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+</p>
+
+### 🧰 Tools & Version Control  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 🔥 Currently Exploring  
-- TypeScript  
-- DevOps  
-- New libraries & languages to improve workflow  
+# 🎞️ **Live Coding Animation**
+<p align="center">
+  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="500">
+</p>
 
 ---
 
-## 🎯 Goals  
-- Become a highly skilled **Full Stack Developer**  
-- Improve backend architecture skills  
-- Explore AI + Full Stack integrations  
+# 🧭 **Featured Project**
+### **🧠 AI-Navigator – Advanced UI Project**
+A modern UI built with **React + Tailwind + Advanced Animations**
+
+📌 *Project Coming Soon…*
 
 ---
 
-## 🚀 Featured Project  
-### 🧭 **AI-Navigator (Advanced UI Design)**  
-Built with **React + Tailwind + multiple libraries**  
-🔗 *Project Coming Soon*  
+# 🚀 **Portfolio**
+👉 **[Click to Visit My Portfolio](http://github.com/MUmarMunir533/Umar-Portfolio)**
 
 ---
 
-## 📂 My Portfolio  
-👉 **[Visit My Portfolio](http://github.com/MUmarMunir533/Umar-Portfolio)**
+# 📬 **Contact**
+- 📧 Email: **mumarmunir@gmail.com**  
+- 🔗 LinkedIn: https://www.linkedin.com/feed/
 
 ---
 
-## 📬 Contact Me  
-- 📧 **Email:** mumarmunir@gmail.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/feed/
-
----
-
-# 📊 GitHub Stats (Dark + Gradient)
+# 🔥 **GitHub Stats (Dark + Neon Glow)**
 
 <div align="center">
 
-### 🔥 Streak Stats  
-<img src="https://streak-stats.demolab.com?user=MUmarMunir533&theme=react&border_radius=7&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=MUmarMunir533&theme=tokyonight-duo&border_radius=7" />
 
-### 📘 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=MUmarMunir533&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=MUmarMunir533&show_icons=true&theme=tokyonight&hide_border=true" />
 
-### 🧩 Most Used Languages  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUmarMunir533&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-
-### 📈 Contribution Graph  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MUmarMunir533&theme=react-dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUmarMunir533&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
+# 🐍 **Interactive Snake Game (GitHub Activity Game)**
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00FFFF&height=100&section=footer" />
+  <img src="https://raw.githubusercontent.com/MUmarMunir533/MUmarMunir533/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+# 📈 **Contribution Graph (Animated Dark Theme)**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUmarMunir533&theme=react-dark&hide_border=true" />
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=footer" />
 </div>
