@@ -17,8 +17,8 @@
 
 # ✨ **About Me**
 
-<!-- 🔥 Replaced with a DARK + TRANSPARENT coding GIF -->
-<img align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="260" />
+<!-- 🔥 NEW: Dark + Transparent Professional Coding GIF -->
+<img align="right" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="260" />
 
 - 👋 I'm **Muhammad Umar Munir**, a passionate **Full Stack Developer**
 - 💻 Recently built **AI-Navigator UI** using React + Tailwind
@@ -88,14 +88,22 @@ A modern UI built with **React + Tailwind + Advanced Animations**
 
 ---
 
-# 🐍 **Interactive Snake Game (GitHub Activity Game)**
+# 🐍 **Simple Snake Game GIF (Clean + Attractive + Dark)**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MUmarMunir533/MUmarMunir533/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHl4bGQ3aG4yYjBoZGt2MGtmZ3JyeHk4a2JmZDltOXltemFkZ2tvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26BRv0ThflsHCqDrG/giphy.gif" width="500" />
 </div>
 
 ---
 
-# 🎮 **Mini Hacker Terminal Game (ASCII Mode)**  
-*(Fun interactive console-style game — GitHub supported)*
+# 📈 **Contribution Graph (Animated Dark Theme)**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUmarMunir533&theme=react-dark&hide_border=true" />
+</div>
 
+---
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=footer" />
+</div>
