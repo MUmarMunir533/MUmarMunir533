@@ -1,11 +1,14 @@
 <!-- 🔥 Ultra Modern Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4083f4&color=00E8FF &center=true&vCenter=true&width=750&lines=Muhammad+Umar+Munir;Full+Stack+Developer;MERN+%7C+Next.js+%7C+AI+Enthusiast;Building+Modern+UI+%2B+AI+Powered+Apps" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=4083F4&center=true&vCenter=true&width=750&lines=Muhammad+Umar+Munir;Full+Stack+Developer;MERN+%7C+Next.js+%7C+AI+Enthusiast;Building+Modern+UI+%2B+AI+Powered+Apps" 
+  />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00eaff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=4083f4" />
 </div>
+
 
 <br/>
 
