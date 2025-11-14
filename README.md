@@ -13,7 +13,6 @@
 
 # 🚀 **About Me**
 <div align="center">
-  <!-- WORKING About Me GIF -->
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="260" align="right"/>
 </div>
 
@@ -50,17 +49,15 @@
 
 <br/>
 
-# 🧊 **Animated Skill Card**
+# 🧊 **Animated Skill Card (Updated)**
 <div align="center">
-  <!-- FIXED working card image -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00eaff,100:020024&height=180&section=header&text=My%20Skills&fontSize=40&fontColor=ffffff" width="500">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="500" />
 </div>
 
 ---
 
 # 🎞️ **Live Coding Animation**
 <div align="center">
-  <!-- WORKING Live Coding GIF -->
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="500"/>
 </div>
 
