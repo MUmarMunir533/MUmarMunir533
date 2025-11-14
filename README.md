@@ -50,16 +50,12 @@
 <br/>
 
 # 🧊 **Animated Skill Card (Updated)**
-<div align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="500" />
-</div>
+<div align="center"> <img src="https://i.pinimg.com/originals/36/2d/5c/362d5c55859146c0c7debfca296ad321.gif" width="500" /> </div>
 
 ---
 
 # 🎞️ **Live Coding Animation**
-<div align="center">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="500"/>
-</div>
+<div align="center"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-dkxPd5jkfcoCpl2fFVt-MNLzbvxjx554pgkuHA89FexnGWeSUy3CfM7fdp9d2GanqhAkdp9s9FWVzGtNs4nk0xk5LaOwRFG1CbbHmfUAAp3trGdPXEgoUkENIfJE1yPIpLAOpqlFLqYKLP0f_g46PNKJa7VnXHauvfeo_yI_d333yqCk0f31DI0w1if7/s728-rw-e365/hacker-ai-coding.gif" width="500"/> </div>
 
 ---
 
