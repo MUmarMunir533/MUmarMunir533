@@ -13,8 +13,8 @@
 
 # 🚀 **About Me**
 <div align="center">
-  <!-- Updated About Me GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xocmYzZ2QyZjV6M3NnN3Z6eG84d3E5eHEyc2p5Y2g5OGQ1cTZmNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FcWp8ZJYv9X9u/giphy.gif" width="260" align="right"/>
+  <!-- WORKING About Me GIF -->
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="260" align="right"/>
 </div>
 
 ✨ Passionate **Full Stack Developer** crafting  
@@ -52,15 +52,16 @@
 
 # 🧊 **Animated Skill Card**
 <div align="center">
-  <img src="https://github.com/kyechan99/capsule-render/blob/master/demo/skills.png?raw=true" width="500">
+  <!-- FIXED working card image -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00eaff,100:020024&height=180&section=header&text=My%20Skills&fontSize=40&fontColor=ffffff" width="500">
 </div>
 
 ---
 
 # 🎞️ **Live Coding Animation**
 <div align="center">
-  <!-- Updated Live Coding GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9yOXMwbWJya2VpYm1pb3A3Z2c2cnNnM2xyMnlhZnBrMGZpMG9pdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gf675E41dP6I8/giphy.gif" width="500"/>
+  <!-- WORKING Live Coding GIF -->
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="500"/>
 </div>
 
 ---
