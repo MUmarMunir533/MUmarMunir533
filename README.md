@@ -1,111 +1,118 @@
-<!-- Dark Gradient Header -->
+<!-- 🔥 Ultra Modern Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Muhammad%20Umar%20Munir&fontSize=40&fontColor=FFFFFF&animation=twinkling" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&color=00E8FF&center=true&vCenter=true&width=750&lines=Muhammad+Umar+Munir;Full+Stack+Developer;MERN+%7C+Next.js+%7C+AI+Enthusiast;Building+Modern+UI+%2B+AI+Powered+Apps" />
 </div>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="40" />
-  🚀 Full Stack Developer | MERN | Next.js | AI Enthusiast
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="40" />
-</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00eaff" />
+</div>
 
-<p align="center">
-  <b>Building Modern UIs, AI-Powered Apps, and Scalable Backends with Style.</b>
-</p>
+<br/>
 
 ---
 
-# ✨ **About Me**
+# 🚀 **About Me**
+<div align="center">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="260" align="right"/>
+</div>
 
-<img align="right" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="260" />
+✨ Passionate **Full Stack Developer** crafting  
+**AI-powered apps**, **modern UI**, and **scalable backends**.
 
-- 👋 I'm **Muhammad Umar Munir**, a passionate **Full Stack Developer**
-- 💻 Recently built **AI-Navigator UI** using React + Tailwind
-- 🔥 Love advanced UI/UX & modern animation workflows
-- 🚀 Exploring **TypeScript**, **DevOps**, and modern libraries
-- 🧠 Interests: **Web Dev, AI Apps, Backend Systems**
-- 🎯 Goal: Become an expert-level full stack dev with strong backend & AI stack
+- 🔥 Built **AI Navigator UI** using React + Tailwind  
+- 🎨 Expert in **UI/UX animations** & smooth interaction design  
+- ⚙️ Diving deep into **TypeScript + DevOps**  
+- 💡 Interested in: **AI Apps, Cloud, Backend Systems**  
+- 🎯 Vision: Become an expert-level Full Stack + AI Engineer  
+
+<br/><br/>
 
 ---
 
 # ⚡ **Tech Stack**
-
-### 🚀 Main Tech  
+### 🚀 Core Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,prisma,mysql,graphql" />
+  <img src="https://skillicons.dev/icons?i=react,next,js,ts,nodejs,express,mongodb,prisma,mysql,graphql" />
 </p>
 
-### 🎨 UI & Styling  
+### 🎨 UI / Styling  
 <p>
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
 </p>
 
-### 🧰 Tools & Version Control  
+### 🧰 Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma" />
 </p>
+
+---
+
+<br/>
+
+# 🧊 **Animated Skill Card**
+<div align="center">
+  <img src="https://github.com/kyechan99/capsule-render/blob/master/demo/skills.png?raw=true" width="500">
+</div>
 
 ---
 
 # 🎞️ **Live Coding Animation**
-<p align="center">
-  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="500">
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</div>
 
 ---
 
-# 🧭 **Featured Project**
-### **🧠 AI-Navigator – Advanced UI Project**
-A modern UI built with **React + Tailwind + Advanced Animations**
-
-📌 *Project Coming Soon…*
+# 🌐 **Featured Project**
+## 🔥 **AI Navigator — Next Gen UI**
+⚡ Crafted with **React + Tailwind + Motion**  
+🎨 Ultra Modern UI + Smooth Interactive Animations  
+🚀 *Launching Soon… Stay Tuned!*
 
 ---
 
-# 🚀 **Portfolio**
-👉 **[Click to Visit My Portfolio](http://github.com/MUmarMunir533/Umar-Portfolio)**
+# 🌍 **Portfolio**
+### 👉 **[Click Here to Visit Portfolio](https://github.com/MUmarMunir533/Umar-Portfolio)**
 
 ---
 
 # 📬 **Contact**
-- 📧 Email: **mumarmunir@gmail.com**  
+- 📧 Email: **mumarmunir@gmail.com**
 - 🔗 LinkedIn: https://www.linkedin.com/feed/
 
 ---
 
-# 🔥 **GitHub Stats (Dark + Neon Glow)**
+# 🟦 **GitHub Stats — Neon Glow Edition**
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MUmarMunir533&theme=tokyonight-duo&border_radius=7" />
+<img src="https://streak-stats.demolab.com?user=MUmarMunir533&theme=blueberry&hide_border=true&border_radius=6"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MUmarMunir533&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=MUmarMunir533&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUmarMunir533&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUmarMunir533&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 **Snake Game (Dark Gradient Neon Theme)**  
-### *(New: theme-matching, modern, neon-grid look)*
-
+# 🐍 **Snake Contribution Animation**
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczQyM2h3Y3NxbmRmbW5qNGo5dnE5bW1jMHBibWJiMzdncGd5YzdpbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abB06u9bNzA8lu8/giphy.gif" width="480" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
 
-# 📈 **New Contribution Graph (Dark Neon Gradient + Glow Theme)**  
-### *Highly attractive + matching color scheme*
-
+# 📈 **Neon Glow Activity Graph**
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUmarMunir533&theme=github-dark-dimmed&area=true&hide_border=true&line=00eaff&point=00eaff&color=00eaff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUmarMunir533&theme=react-dark&area=true&hide_border=true&line=00eaff&point=00eaff"/>
 </div>
 
 ---
+
+<br/>
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00BFFF&height=140&section=footer" />
 </div>
