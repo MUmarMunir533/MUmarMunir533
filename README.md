@@ -17,7 +17,6 @@
 
 # ✨ **About Me**
 
-<!-- 🔥 NEW: Dark + Transparent Professional Coding GIF -->
 <img align="right" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="260" />
 
 - 👋 I'm **Muhammad Umar Munir**, a passionate **Full Stack Developer**
@@ -88,17 +87,20 @@ A modern UI built with **React + Tailwind + Advanced Animations**
 
 ---
 
-# 🐍 **Simple Snake Game GIF (Clean + Attractive + Dark)**
+# 🐍 **Snake Game (Dark Gradient Neon Theme)**  
+### *(New: theme-matching, modern, neon-grid look)*
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHl4bGQ3aG4yYjBoZGt2MGtmZ3JyeHk4a2JmZDltOXltemFkZ2tvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26BRv0ThflsHCqDrG/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczQyM2h3Y3NxbmRmbW5qNGo5dnE5bW1jMHBibWJiMzdncGd5YzdpbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abB06u9bNzA8lu8/giphy.gif" width="480" />
 </div>
 
 ---
 
-# 📈 **Contribution Graph (Animated Dark Theme)**
+# 📈 **New Contribution Graph (Dark Neon Gradient + Glow Theme)**  
+### *Highly attractive + matching color scheme*
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUmarMunir533&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUmarMunir533&theme=github-dark-dimmed&area=true&hide_border=true&line=00eaff&point=00eaff&color=00eaff" />
 </div>
 
 ---
