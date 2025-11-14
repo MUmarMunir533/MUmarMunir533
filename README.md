@@ -49,13 +49,17 @@
 
 <br/>
 
-# 🧊 **Animated Skill Card (Dark Neon Updated)**
-<div align="center"> <table> <tr> <td align="center" style=" padding: 25px; border-radius: 18px; background: linear-gradient(145deg, #0c0c0c, #111827); border: 1px solid rgba(0, 225, 255, 0.25); box-shadow: 0 0 20px rgba(0, 255, 255, 0.15), inset 0 0 25px rgba(0, 255, 255, 0.05), 0 0 50px rgba(0, 255, 255, 0.12); animation: floatCard 4s ease-in-out infinite; "> <img src="https://skillicons.dev/icons?i=react,next,nodejs,ts,express,mongodb" width="380"/> <p style="color:#00eaff; font-size:18px; margin-top:15px;"> ⚡ Modern Stack • MERN • Next.js • TypeScript • API Development </p> </td> </tr> </table> </div> <!-- Floating Animation --> <style> @keyframes floatCard { 0% { transform: translateY(0px); } 50% { transform: translateY(-14px); } 100% { transform: translateY(0px); } } </style>
+# 🧊 **Animated Skill Card (Updated)**
+<div align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="500" />
+</div>
 
 ---
 
-# 🎞️ **Live Coding Animation (Dark Cyber Look)**
-<div align="center" style=" padding: 25px; border-radius: 18px; background: radial-gradient(circle at top, #0f172a 0%, #000 70%); border: 1px solid rgba(0, 225, 255, 0.22); box-shadow: 0 0 25px rgba(0, 255, 255, 0.18), inset 0 0 40px rgba(0, 255, 255, 0.08); position: relative; overflow: hidden; "> <!-- Neon Scanline --> <div style=" position:absolute; top:0; left:0; width:100%; height:100%; opacity:0.07; background: repeating-linear-gradient( to bottom, transparent 0px, transparent 3px, #00eaff 4px ); animation: scanMove 6s linear infinite; "></div> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="520" style="border-radius:10px; position:relative; z-index:2;"/> </div> <style> @keyframes scanMove { 0% { transform: translateY(-100%); } 100% { transform: translateY(100%); } } </style>
+# 🎞️ **Live Coding Animation**
+<div align="center">
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="500"/>
+</div>
 
 ---
 
