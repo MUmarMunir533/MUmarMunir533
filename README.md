@@ -16,7 +16,7 @@
 
 # 🚀 **About Me**
 <div align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="260" align="right"/>
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="230" align="right"/>
 </div>
 
 ✨ Passionate **Full Stack Developer** crafting  
